@@ -11,8 +11,8 @@ import plotly.graph_objects as go
 import io
 
 # Configuration de la page
-st.set_page_config(page_title="DKT", page_icon="🌍", layout="wide")
-st.header(":bar_chart: DKT Dashboard")
+st.set_page_config(page_title="Unilever", page_icon="🌍", layout="wide")
+st.header(":bar_chart: Unilever Dashboard")
 
 
 
