@@ -17,7 +17,7 @@ st.header(":bar_chart: Unilever Dashboard")
 
 
 # Nom du fichier
-file_name = 'Unilever_-_all_versions_-_labels_-_2024-11-14-10-40-01.xlsx'
+file_name = 'Unilever_-_all_versions_-_labels_-_2024-11-18-08-20-43.xlsx'
 
 # Charger les feuilles du fichier Excel
 df_unilever = pd.read_excel(file_name, sheet_name='Unilever')
